@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T10:50:42.370Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="B3DZdPQdyN90Qci8-qZm" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-30T16:03:24.394Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ADGeqat7sZ_mW3VZ9Ya6" version="21.7.1" type="github">
   <diagram name="第 1 页" id="UDc22vJXyziLhrP-2u4Q">
-    <mxGraphModel dx="1195" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1917" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="zelz65Pt464Hgcg35Wxo-3" value="衣柜60cm x 164cm(原先基础上缩短24cm)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="235" y="210" width="60" height="164" as="geometry" />
         </mxCell>
-        <mxCell id="zelz65Pt464Hgcg35Wxo-4" value="衣柜 340cm (原先基础上+75cm)x 60cm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zelz65Pt464Hgcg35Wxo-4" value="衣柜 351cm (原先基础上+86cm)x 60cm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="486" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zelz65Pt464Hgcg35Wxo-5" value="180cm x 210cm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -45,16 +45,16 @@
         <mxCell id="zelz65Pt464Hgcg35Wxo-12" value="卧室门的位置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="555" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JXcdtdiAbAjHDOmDohl--1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="JXcdtdiAbAjHDOmDohl--1" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="234.94" y="1090" as="sourcePoint" />
             <mxPoint x="234.94" y="1064" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JXcdtdiAbAjHDOmDohl--3" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JXcdtdiAbAjHDOmDohl--3" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="189" y="1090" width="45" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="JXcdtdiAbAjHDOmDohl--5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="JXcdtdiAbAjHDOmDohl--5" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="1235" as="sourcePoint" />
             <mxPoint x="745" y="1235" as="targetPoint" />
